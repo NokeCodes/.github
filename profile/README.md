@@ -6,7 +6,7 @@ Created by darrell24015
 
 [Noke Codes, Inc](https://nokecodes.github.io/)
 
-🙋‍♀️ Visit the website if you'd like. Still under construction, unfortunately.
+🙋‍♀️ Visit the website if you'd like. Still under construction, but coming along nicely.
 
 🍿 The repositories do contain some useful code examples. Feel free to browse around. 
 
