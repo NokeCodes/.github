@@ -6,10 +6,10 @@ Created by darrell24015
 
 [Noke Codes, Inc](https://nokecodes.github.io/)
 
-🙋‍♀️ Visit the website if you'd like. Still under construction, but coming along nicely.
+🙋‍♀️ Visit the website if you'd like. No further development will be made.
 
 🍿 The repositories do contain some useful code examples. Feel free to browse around. 
 
-Just keep in mind no active development has happened the past three years.
+Just keep in mind no active development has happened the past three years and no future plans are being made.
 
-This project has stalled due to the pandemic. Hope to resume activity again in 2024/2025.
+Noke Codes, Inc was dissolved in 2024.
